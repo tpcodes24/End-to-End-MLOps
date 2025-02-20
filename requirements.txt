@@ -1,0 +1,8 @@
+boto3
+mlflow
+pandas
+scikit-learn
+dvc
+apache-airflow
+awscli
+terraform

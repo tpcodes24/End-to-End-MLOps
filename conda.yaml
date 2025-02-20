@@ -1,0 +1,13 @@
+name: mlops-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - boto3
+  - mlflow
+  - pandas
+  - scikit-learn
+  - dvc
+  - apache-airflow
+  - awscli
+  - terraform
