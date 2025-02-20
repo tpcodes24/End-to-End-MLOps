@@ -35,25 +35,7 @@ This MLOps pipeline is designed to:
 ```
 
 ---
-## **Project Structure**
-```
-mlops-aws/
-│── data/                      # Sample dataset
-│── notebooks/                  # Jupyter notebooks for EDA
-│── src/
-│   ├── data/                   # Data ingestion & processing
-│   ├── features/               # Feature engineering
-│   ├── models/                 # Model training & evaluation
-│   ├── deployment/             # Model deployment scripts
-│   ├── monitoring/             # CloudWatch monitoring scripts
-│── dags/                       # Apache Airflow DAGs
-│── terraform/                  # Infrastructure as Code
-│── .github/workflows/          # CI/CD Pipeline using GitHub Actions
-│── docker/                     # Docker setup
-│── README.md                   # Documentation
-```
 
----
 ## **Setup & Installation**
 
 ```sh
